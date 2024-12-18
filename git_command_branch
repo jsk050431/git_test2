@@ -1,4 +1,6 @@
 git branch 브랜치이름
-git switch 이동할브랜치이름
+git switch(checkout) 이동할브랜치이름
 git merge 합칠브랜치이름
 (반드시 메인이 될 곳에서 해야 함!)
+
+git branch -d 브랜치이름 (삭제)
